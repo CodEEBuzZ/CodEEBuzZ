@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Saikat Munshib</h1>
 <h3 align="center">Love To Work With Huge Projects</h3>
 <img align="right"alt="coding"width="400"src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-<img align="left"alt="coding"width="250"src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif">
+<img align="left"alt="coding"width="330"src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebuzz&label=Profile%20views&color=0e75b6&style=flat" alt="codebuzz" /> </p>
